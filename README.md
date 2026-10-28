@@ -12,6 +12,7 @@
 |---|---|---|
 | [prolog](prolog) | Семейное древо на Prolog | Реализация семейного древа: 30 человек, 115 фактов, 30 правил, 15 запросов. [Отчёт](prolog/report/report.pdf) |
 | [lab1](lab1) | Linear Regression и Logistic Regression | Модели на PyTorch с градиентным спуском. [Ноутбук](lab1/lab1.ipynb), [отчёт](lab1/report/report.pdf) |
+| [lab2](lab2) | Regularization и KNN | L1, L2 и ElasticNet в моделях lab1, собственный KNN для классификации и регрессии. [Ноутбук](lab2/lab2.ipynb), [отчёт](lab2/report/report.pdf) |
 
 В папке каждой работы лежат задание в `README.md`, код и отчёт в PDF.
 
@@ -21,3 +22,4 @@
 |---|---|
 | prolog | SWI-Prolog 10 |
 | lab1 | Python 3.10+, PyTorch, NumPy, pandas, Matplotlib, scikit-learn |
+| lab2 | Python 3.10+, PyTorch, NumPy, pandas, Matplotlib, scikit-learn, openpyxl |
